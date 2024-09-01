@@ -3,5 +3,6 @@ Este txt va a tener Datos sobre Wilber
 - Estudios: Ingenieria de Software 10mo ciclo 2024
 - Edad: 21
 
-
+Ceritificados:
+- Certificado Java Spring (16 horas teoricas - practicas)(Platzi)
 
