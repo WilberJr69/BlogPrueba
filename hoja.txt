@@ -1,1 +1,7 @@
-Esta txt va a tener Datos sobre Wilber
+Este txt va a tener Datos sobre Wilber
+
+- Estudios: Ingenieria de Software 10mo ciclo 2024
+- Edad: 21
+
+
+
