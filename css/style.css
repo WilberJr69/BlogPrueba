@@ -19,3 +19,11 @@ body
     color: #000;
     text-align: center;
 }
+
+#cabecera
+{
+    background-color: #000;
+    color: #fff;
+    padding: 1em;
+    margin-bottom: 1em;
+}
